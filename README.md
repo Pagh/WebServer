@@ -1,3 +1,2 @@
 # Simple java HTTP WebServer
-
-Made by Francesco Lazzarelli
+WebServer by Samuele Pagliarello
