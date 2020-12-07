@@ -7,7 +7,7 @@ import java.util.*;
 
 public class JavaHTTPServer implements Runnable{ 
 
-    static final File WEB_ROOT = new File("./file");
+    static final File WEB_ROOT = new File("C:\\Users\\Pagh\\Desktop\\TPSIT");
     static final String DEFAULT_FILE = "index.html";
     static final String FILE_NOT_FOUND = "404.html";
     static final String METHOD_NOT_SUPPORTED = "Not_Supported.html";
